@@ -9,6 +9,7 @@ import Login from "../pages/Login";
 import AddPost from "../pages/AddPost";
 import PostForm from "./post-form/PostForm";
 import PostCard from "./PostCard";
+import Home from "../pages/Home";
 
 export {
   Header,
@@ -22,4 +23,5 @@ export {
   AddPost,
   PostForm,
   PostCard,
+  Home,
 };
